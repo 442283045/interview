@@ -1,0 +1,22 @@
+export default [
+    { id: 1, product: '产品 1', result: '成功', date: '2023-07-10 09:30:00', price: 100.0 },
+    { id: 2, product: '产品 2', result: '成功', date: '2023-07-10 10:15:00', price: 50.0 },
+    { id: 3, product: '产品 3', result: '成功', date: '2023-07-10 11:45:00', price: 200.0 },
+    { id: 4, product: '产品 4', result: '成功', date: '2023-07-10 13:20:00', price: 150.0 },
+    { id: 5, product: '产品 5', result: '成功', date: '2023-07-10 14:10:00', price: 80.0 },
+    { id: 6, product: '产品 6', result: '成功', date: '2023-07-10 15:30:00', price: 120.0 },
+    { id: 7, product: '产品 7', result: '成功', date: '2023-07-10 16:45:00', price: 90.0 },
+    { id: 8, product: '产品 8', result: '成功', date: '2023-07-10 17:55:00', price: 180.0 },
+    { id: 9, product: '产品 9', result: '失败', date: '2023-07-10 18:25:00', price: 70.0 },
+    { id: 10, product: '产品 10', result: '成功', date: '2023-07-10 19:40:00', price: 220.0 },
+    { id: 11, product: '产品 11', result: '成功', date: '2023-07-10 20:15:00', price: 130.0 },
+    { id: 12, product: '产品 12', result: '失败', date: '2023-07-10 21:05:00', price: 60.0 },
+    { id: 13, product: '产品 13', result: '成功', date: '2023-07-10 22:20:00', price: 190.0 },
+    { id: 14, product: '产品 14', result: '成功', date: '2023-07-10 23:30:00', price: 40.0 },
+    { id: 15, product: '产品 15', result: '成功', date: '2023-07-11 00:10:00', price: 250.0 },
+    { id: 16, product: '产品 16', result: '成功', date: '2023-07-11 01:45:00', price: 140.0 },
+    { id: 17, product: '产品 17', result: '成功', date: '2023-07-11 02:30:00', price: 180.0 },
+    { id: 18, product: '产品 18', result: '失败', date: '2023-07-11 03:15:00', price: 90.0 },
+    { id: 19, product: '产品 19', result: '成功', date: '2023-07-11 04:40:00', price: 200.0 },
+    { id: 20, product: '产品 20', result: '成功', date: '2023-07-11 05:55:00', price: 110.0 }
+]
